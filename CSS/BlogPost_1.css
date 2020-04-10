@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.navbar{
+    font-size: 2rem;
+}
+
+.bg-dark {
+  box-shadow: 0 0 2rem rgba(0,0,0,0.7);
+  background-color: rgba(23, 28, 32, 0.45) !important;
+}
+
+
+.newHead-section{
+    margin-top: 10rem;
+}
+
+.carousel-inner{
+    box-shadow: 0 0 2rem rgba(0,0,0,0.3);
+}
+
+.newimg{
+    height: 400px !important;
+    width: 100% !important;
+}
+
+.display-1{
+    font-size: 6rem !important;
+}
+
+.text-muted{
+    font-size: 1.7rem !important;
+}
+
+.sec{
+    margin-top: 10rem;
+}
+
+.theading{
+    padding-bottom: 0.6rem;
+    background-color: #2d3436;
+}
+
+.tabledark{
+    background-color: #2d3436;
+}
+
+.table_heading{
+    font-size: 1.5rem;
+}
+
+.container input,textarea{
+    font-size: 1.5rem;
+}
+
+#message{
+    background-color: #ecf0f1 !important;
+    font-size: 2rem !important;
+}
+
+.review{
+    font-size: 5rem !important
+}
+
+#submit{
+    width: 100%;
+}
+
+.review{
+    font-size: 4rem;
+}
+
+.comment_box{
+    font-size: 1.4rem;
+    padding: 20px;
+    margin-bottom: 6px;
+    background-color: #ecf0f1;
+    border-radius: 4px;
+}

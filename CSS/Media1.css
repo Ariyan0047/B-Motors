@@ -1,0 +1,57 @@
+@media only screen and (max-width: 768px){
+    .img{
+        height: 450px;
+   }
+    .form-control{
+        padding: 1.8rem 2rem;
+}
+    .btn-danger{
+        padding: 0.8rem 8.4rem;
+    }
+
+}
+
+@media only screen and (max-width: 425px){
+    .img{
+        height: 350px;
+    }
+    .section-1{
+        margin-top: -8rem;
+    }
+    .form-control{
+        padding: 1.8rem 2rem;
+    }
+    .btn-danger{
+        padding: 0.8rem 8.4rem;
+    }
+
+}
+
+@media only screen and (max-width: 375px){
+    .img{
+        height: 350px;
+    }
+    .section-1{
+        margin-top: -10rem;
+    }
+    .form-control{
+        padding: 1.8rem 2rem;
+    }
+    .btn-danger{
+        padding: 0.8rem 12.4rem;
+    }
+
+}
+
+@media only screen and (max-width: 375px){
+    .img{
+        height: 300px;
+    }
+    .section-1{
+        margin-top: -16rem;
+    }
+    .btn-danger{
+        padding: 0.8rem 9.9rem;
+    }
+
+}

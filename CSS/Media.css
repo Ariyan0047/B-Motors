@@ -1,0 +1,166 @@
+@media only screen and (max-width: 768px){
+    .heading{
+        margin-left: -20rem;
+        margin-top: 20rem;
+        margin-bottom: -5rem;
+    }
+    .heading h1{  
+        font-size: 6rem;
+    }
+    .heading p{  
+        font-size: 2rem;
+    }
+    .heading .btn{  
+        font-size: 1.8rem;
+    }
+
+    .about h1{
+        font-size: 6rem;
+    }
+
+    .info{
+        height: 280px;
+        top: 40px;
+        left: 50%;
+        right: 50%;
+        padding: 50px;
+    }
+
+    .info p {
+        font-size: 1.8rem;
+    }
+
+    .about img{
+        margin-left:-40rem;
+        height: 250px;
+        width: 350px;
+        top: -50px;
+    }
+
+    .panel h1{
+        font-size: 3rem;
+    }
+
+    .panel{
+        position: initial;
+        height: initial;
+        width: initial;
+    }
+    .pray{
+        width: 90%;
+        margin-left: 4rem;
+    }
+    .form-control{
+        padding: 1.6rem 3rem;
+    }
+    .card-title{
+        font-size: 2rem;
+    } 
+
+    .card-text {
+        font-size: 1.5rem;
+    }
+
+    .team .btn {
+        font-size: 1.2rem;
+    }
+
+    .btn-danger{
+        padding: 0.8rem 9.5rem;
+    }
+}
+
+@media only screen and (max-width:425px){
+    .heading{
+        margin-left: -20rem;
+        margin-top: 20rem;
+        margin-bottom: -4rem;
+    }
+    .heading h1{  
+        font-size: 4rem;
+    }
+    .about h1{
+        font-size: 4rem;
+    }
+    .about p{
+        font-size: 1.5rem;
+    }
+    .info{
+        height: 280px;
+        top: 40px;
+        left: 50%;
+        right: 50%;
+        padding: 40px;
+    }
+
+    .about img{
+        margin-left:5rem;
+        height: 250px;
+        width: 350px;
+        top: -50px;
+    }
+    .pray{
+        width: 80%;
+        margin-left: 3.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .btn-danger{
+        padding: 0.8rem 14.5rem;
+    }
+
+}
+
+@media only screen and (max-width:375px){
+    .heading{
+        margin-left: -17.5rem;
+        margin-top: 20rem;
+        margin-bottom: -4rem;
+    }
+    .info{
+        height: 260px;
+        padding: 20px;
+    }
+    .btn-danger{
+        padding: 0.8rem 12.4rem;
+    }
+}
+
+@media only screen and (max-width:320px){
+    .heading{
+        margin-left: -15rem;
+        margin-top: 20rem;
+        margin-bottom: -4rem;
+    }
+    .heading h1{  
+        font-size: 3rem;
+    }
+    .about p{
+        font-size: 1rem;
+    }
+    .heading .btn{
+        font-size: 1rem;
+        padding: 1.5rem 2rem;
+        font-size: 2rem;
+    }
+    .info{
+        top: 20px;
+        height: 220px;
+        padding: 20px;
+    }
+    .about h1{
+        font-size: 4rem;
+    }
+    .info p{
+        font-size: 1.3rem;
+    }
+    .about img{
+        top: -30px;
+    }
+    .btn-danger{
+        padding: 0.8rem 10rem;
+    }
+    .section-3{
+        margin-top: 5px;
+    }
+}
