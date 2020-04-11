@@ -72,8 +72,8 @@
                     <h1 class="display-1 mt-4 text-center">about the site</h1>
                     <section class="info">
                         <div class="row text-left">
-                            <p class="col-sm-12 col-md-12 col-lg-12 lead">CarsDirect helps you get a great deal on a new
-                                or used car by giving you up-to-the-minute car pricing information so
+                            <p class="col-sm-12 col-md-12 col-lg-12 lead">B-Motors helps you get a great details of on a new
+                                by giving you up-to-the-minute car information so
                                 that you're fully armed with the knowledge you need as you shop for a car. We also help
                                 buyers with less-than-perfect
                                 credit find special financing options through our network of trusted lending partners.
@@ -96,13 +96,13 @@
                         <div class="panel text-left">
                             <h1 class="display-1 head">why use this site?</h1>
                             <div class="para mt-5">
-                                <p class="lead">Our full-time team of pricing experts is constantly analyzing the latest
-                                    car pricing data to identify hot deals and
-                                    pricing trends that are useful to car shoppers. In fact, our pricing experts dig so
+                                <p class="lead">Our full-time team of information experts is constantly analyzing the latest
+                                    car information  to identify hot deals and
+                                    details,  trends that are useful to car buyers. In fact, our information experts dig so
                                     deep that they often break industry
                                     news stories that are reported by the world's biggest car news publications!
 
-                                    As an independent company, you can rest assured that our pricing information is
+                                    As an independent company, you can rest assured that our information is
                                     totally objective and not influenced by
                                     any outside factors.</p>
                             </div>
